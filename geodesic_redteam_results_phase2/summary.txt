@@ -1,0 +1,4 @@
+mode_a: Retention = 38.85%, Dispersion = 5.40 km/s
+mode_b: Retention = 38.43%, Dispersion = 5.21 km/s
+mode_c: Retention = 40.75%, Dispersion = 5.22 km/s
+mode_d: Retention = 38.98%, Dispersion = 5.12 km/s
